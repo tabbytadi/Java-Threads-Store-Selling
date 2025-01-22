@@ -29,3 +29,15 @@ A Java console application simulating sales operations in a store with multithre
 
 4. Run the program:  
    `java Main`
+
+## Example Output
+
+```plaintext
+Customer 1 is purchasing items...
+Customer 2 is purchasing items...
+...
+All transactions completed.
+Updated inventory:
+- Product A: 10 units
+- Product B: 5 units
+
