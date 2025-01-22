@@ -1,4 +1,4 @@
-# Store Sales Console Application
+# Multithreaded Store Sales Java Application
 
 A Java console application simulating sales operations in a store with multithreading for concurrent customer transactions.
 
