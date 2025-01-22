@@ -44,4 +44,12 @@ All transactions completed.
 Updated inventory:
 - Product A: 10 units
 - Product B: 5 units
+```
+
+
+## Technologies
+
+- **Java**
+- **Multithreading** (`java.util.concurrent`)
+- **Collections** for managing inventory and baskets
 
