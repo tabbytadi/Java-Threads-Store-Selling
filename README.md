@@ -18,17 +18,21 @@ A Java console application simulating sales operations in a store with multithre
 
 ## How to Run
 
-1. Clone the repository using the following command:  
-   `git clone https://github.com/your-username/store-sales-console-app.git`
+1. Clone the repository using the following command:
+   ```bash
+   git clone https://github.com/your-username/store-sales-console-app.git
 
-2. Navigate to the project directory:  
-   `cd store-sales-console-app`
+3. Navigate to the project directory:
+   ```bash
+   cd store-sales-console-app
 
-3. Compile the Java program:  
-   `javac Main.java`
+5. Compile the Java program:  
+   ```bash
+   javac Main.java
 
-4. Run the program:  
-   `java Main`
+7. Run the program:
+   ```bash
+   java Main
 
 ## Example Output
 
